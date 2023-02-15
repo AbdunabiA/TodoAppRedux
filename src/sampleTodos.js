@@ -1,0 +1,86 @@
+export const todos = [
+  {
+    id:1,
+    name: "Alena Curtis",
+    date: "06.06.2022  14:00PM",
+    title: "Here will be a title",
+    description:
+      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    expireyDate: "02.07.2022  14:00PM",
+    completed: true,
+    userImg: "url",
+    todoImg: "url",
+  },  
+  {
+    id:2,
+    name: "Arthur Watts",
+    date: "06.06.2022  14:00PM",
+    title: "Here will be a title",
+    description:
+      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    expireyDate: "02.07.2022  14:00PM",
+    completed: true,
+    userImg: "url",
+    todoImg: "url",
+  },
+  {
+    id:3,
+    name: "Tanya Rice",
+    date: "06.06.2022  14:00PM",
+    title: "Here will be a title",
+    description:
+      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    expireyDate: "02.07.2022  14:00PM",
+    completed: true,
+    userImg: "url",
+    todoImg: "url",
+  },
+  {
+    id:4,
+    name: "Theodore Gomez",
+    date: "06.06.2022  14:00PM",
+    title: "Here will be a title",
+    description:
+      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    expireyDate: "02.07.2022  14:00PM",
+    completed: true,
+    userImg: "url",
+    todoImg: "url",
+  },
+  {
+    id:5,
+    name: "Marie Stephens",
+    date: "06.06.2022  14:00PM",
+    title: "Here will be a title",
+    description:
+      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    expireyDate: "02.07.2022  14:00PM",
+    completed: false,
+    userImg: "url",
+    todoImg: "url",
+  },
+  {
+    id:6,
+    name: "Dianne Beck",
+    date: "06.06.2022  14:00PM",
+    title: "Here will be a title",
+    description:
+      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    expireyDate: "02.07.2022  14:00PM",
+    completed: true,
+    userImg: "url",
+    todoImg: "url",
+  },
+  {
+    id:7,
+    name: "Marshall Graves",
+    date: "06.06.2022  14:00PM",
+    title: "Here will be a title",
+    description:
+      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    expireyDate: "02.07.2022  14:00PM",
+    completed: true,
+    userImg: "url",
+    todoImg: "url",
+  },
+]; 
